@@ -1,0 +1,20 @@
+body {
+	background-color: gray;
+}
+h1{
+	font-size: 50px;
+	margin-left: 450px;
+}
+div{
+	margin-left: 220px;
+}
+#enter{
+	float: right;
+	margin-top: 60px;
+	margin-right: 250px;
+}
+
+table {
+	font-size: 30px;
+	margin-left: 300px;
+}
